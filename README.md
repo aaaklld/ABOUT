@@ -5,6 +5,6 @@ Cybersecurity student at King Saud University and active CTF player. Interested 
 - dana.alakail@gmail.com 
 - [in] https://www.linkedin.com/in/dana-alakail/ 
 -  𝕏 https://x.com/aaakllld 
-- </> https://aaaklld.github.io/ 
+- </> https://aaaklld.github.io/
 - HTB https://app.hackthebox.com/profile/2579503 
 - THM  https://tryhackme.com/p/aaaklld
